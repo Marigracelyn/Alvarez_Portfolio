@@ -91,6 +91,6 @@
         <p> This course on Leadership explores key principles and practices essential for effective leadership in various contexts
 # Census Academy Achievements
   * DATA GEM: How to Gain Insights on Disability Characteristics in America with U.S. Census Bureau Statistics
-    <p> I learned how to access and analyze crucial statistics on the disabilities of different topics regarding the prompt, median earnings, and demographic characteristics. More importantly, I have found out how to work your way around data.census.gov in order to find this information at the state level and to compare datasets across time effectively.</p>
-    
-   
+    <p> I learned how to access and analyze crucial statistics on the disabilities of different topics regarding the prompt, median earnings, and demographic characteristics. More importantly, I have found out how to work your way around data.census.gov in order to find this information at the state level and to compare datasets across time effectively.</p>  
+<img src="(https://github.com/user-attachments/assets/3af5789b-b74e-4766-bb0e-5602a3f976da)" width="100" height="100">
+
