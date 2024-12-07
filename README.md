@@ -4,9 +4,9 @@
   
   * Hello! My name is Marigracelyn Alvarez, and I am pursuing my bachelor's degree in Data Science at Saint Peter's University. I previously studied at New Jersey City University (NJCU). I anticipate graduating by the fall of 2025 and continuing to pursue my goals within the field of Data Science.
 * A Snapshot of Me
-  * <p> After completing my bachelor's degree, I am eager to pursue further education in Data Science. My goal is to land a position in my career at Prudential, and currently, I am focused on successfully navigating my upcoming interview to secure an internship position. While taking it one step at a time, my ultimate aspiration is to own my own business. I hope to achieve enough financial stability that will enable me to give back to the community, as well as support and care for dogs and other animals in need
+  * <p> After completing my bachelor's degree, I am eager to pursue further education in Data Science. I am focused on successfully navigating my upcoming interview to secure an internship position. While taking it one step at a time, my ultimate aspiration is to own my own business. I hope to achieve enough financial stability that will enable me to give back to the community, as well as support and care for dogs and other animals in need
 # My Academic Studies
-<p> I had completed my first two years of College at NJCU, eventually I transferred into Saint Peter's University 
+<p> I had completed my first two years of College at NJCU, eventually I transferred to Saint Peter's University 
 
   * Freshmen (Courses)
     * Fall Semester
